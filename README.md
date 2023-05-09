@@ -55,4 +55,6 @@ Our papers are under review.
 
 ## Contact
 
+If you find our work useful, please do not save your star!
+
 If you have any questions, please email liht22@mails.tsinghua.edu.cn
