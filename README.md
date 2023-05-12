@@ -2,7 +2,7 @@
 # THUIR-COLIEE2023
 This repository presents the code of THUIR team in COLIEE2023 Task 1 and Task 2. Details can be found in the relevant papers.
 
-In task 1 Legal Case Retrieval, THUIR won the championship[paper](https://arxiv.org/abs/2305.06812). In task 2 Legal Case Entailment, THUIR received the third place[paper](https://arxiv.org/abs/2305.06817).
+In task 1 Legal Case Retrieval, THUIR won the championship [paper](https://arxiv.org/abs/2305.06812). In task 2 Legal Case Entailment, THUIR received the third place [paper](https://arxiv.org/abs/2305.06817).
 
 # Task 1: Legal Case Retrieval
 
