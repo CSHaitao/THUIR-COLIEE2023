@@ -2,7 +2,7 @@
 # THUIR-COLIEE2023
 This repository presents the code of THUIR team in COLIEE2023 Task 1 and Task 2. Details can be found in the relevant papers.
 
-In task 1 Legal Case Retrieval, THUIR won the championship. In task 2 Legal Case Entailment, THUIR received the third place.
+In task 1 Legal Case Retrieval, THUIR won the championship[paper](https://arxiv.org/abs/2305.06812). In task 2 Legal Case Entailment, THUIR received the third place[paper](https://arxiv.org/abs/2305.06817).
 
 # Task 1: Legal Case Retrieval
 
@@ -50,8 +50,38 @@ Please visit [COLIEE 2023](https://sites.ualberta.ca/~rabelo/COLIEE2023/) to app
 
 
 ## Citation
+```
+@misc{li2023sailer,
+      title={SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval}, 
+      author={Haitao Li and Qingyao Ai and Jia Chen and Qian Dong and Yueyue Wu and Yiqun Liu and Chong Chen and Qi Tian},
+      year={2023},
+      eprint={2304.11370},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
 
-Our papers are under review.
+```
+@misc{li2023thuircoliee,
+      title={THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval}, 
+      author={Haitao Li and Weihang Su and Changyue Wang and Yueyue Wu and Qingyao Ai and Yiqun Liu},
+      year={2023},
+      eprint={2305.06812},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
+
+```
+@misc{li2023thuircoliee,
+      title={THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment}, 
+      author={Haitao Li and Changyue Wang and Weihang Su and Yueyue Wu and Qingyao Ai and Yiqun Liu},
+      year={2023},
+      eprint={2305.06817},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ## Contact
 
